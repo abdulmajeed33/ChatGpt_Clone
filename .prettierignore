@@ -1,0 +1,4 @@
+# don't ever lint node_modules
+node_modules
+# add names of the folder or files you don't want to run lint
+# this file follows the gitignore syntax
